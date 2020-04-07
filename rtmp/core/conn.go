@@ -1,8 +1,8 @@
 package core
 
 import (
-	"gitee.com/bdqi/gostream/flv/utils/pio"
-	"gitee.com/bdqi/gostream/flv/utils/pool"
+	"github.com/MeloQi/flv/utils/pio"
+	"github.com/MeloQi/flv/utils/pool"
 	"encoding/binary"
 	"net"
 	"time"

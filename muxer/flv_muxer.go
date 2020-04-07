@@ -1,9 +1,9 @@
 package muxer
 
 import (
-	"gitee.com/bdqi/gostream/flv/amf"
-	"gitee.com/bdqi/gostream/flv/av"
-	"gitee.com/bdqi/gostream/flv/utils/pio"
+	"github.com/MeloQi/flv/amf"
+	"github.com/MeloQi/flv/av"
+	"github.com/MeloQi/flv/utils/pio"
 	stream "github.com/MeloQi/interfaces"
 	"fmt"
 	"io"

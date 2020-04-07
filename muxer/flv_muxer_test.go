@@ -1,7 +1,7 @@
 package muxer
 
 import (
-	"gitee.com/bdqi/gostream/flv/utils"
+	"github.com/MeloQi/flv/utils"
 	stream "github.com/MeloQi/interfaces"
 	"os"
 	"testing"

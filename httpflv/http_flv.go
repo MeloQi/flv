@@ -1,7 +1,7 @@
 package httpflv
 
 import (
-	"gitee.com/bdqi/gostream/flv/muxer"
+	"github.com/MeloQi/flv/muxer"
 	stream "github.com/MeloQi/interfaces"
 	"log"
 	"net"

@@ -1,7 +1,7 @@
 package core
 
 import (
-	"gitee.com/bdqi/gostream/flv/utils/pio"
+	"github.com/MeloQi/flv/utils/pio"
 	"bytes"
 	"crypto/hmac"
 	"crypto/rand"

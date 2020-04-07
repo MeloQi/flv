@@ -1,8 +1,8 @@
 package core
 
 import (
-	"gitee.com/bdqi/gostream/flv/amf"
-	"gitee.com/bdqi/gostream/flv/av"
+	"github.com/MeloQi/flv/amf"
+	"github.com/MeloQi/flv/av"
 	"bytes"
 	"errors"
 	"io"

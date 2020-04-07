@@ -1,11 +1,11 @@
 package rtmp
 
 import (
-	"gitee.com/bdqi/gostream/flv/amf"
-	"gitee.com/bdqi/gostream/flv/av"
-	"gitee.com/bdqi/gostream/flv/muxer"
-	"gitee.com/bdqi/gostream/flv/rtmp/core"
-	"gitee.com/bdqi/gostream/flv/utils"
+	"github.com/MeloQi/flv/amf"
+	"github.com/MeloQi/flv/av"
+	"github.com/MeloQi/flv/muxer"
+	"github.com/MeloQi/flv/rtmp/core"
+	"github.com/MeloQi/flv/utils"
 	"bytes"
 	"errors"
 	"flag"

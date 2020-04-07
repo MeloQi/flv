@@ -1,8 +1,8 @@
 package core
 
 import (
-	"gitee.com/bdqi/gostream/flv/av"
-	"gitee.com/bdqi/gostream/flv/utils/pool"
+	"github.com/MeloQi/flv/av"
+	"github.com/MeloQi/flv/utils/pool"
 	stream "github.com/MeloQi/interfaces"
 	"encoding/binary"
 	"fmt"
